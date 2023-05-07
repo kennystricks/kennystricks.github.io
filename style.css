@@ -1,0 +1,35 @@
+body{
+
+    background-image: url(wee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#assessment{
+    text-align: center;   
+    background-color: 0, 25, 25, 0.6;
+    padding: 10px;
+    margin: 40px;
+    margin-top: 40px;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+}
+
+::placeholder{
+    color:15fff5;
+}
+
+input{
+    border-bottom: 2px solid white ;
+    background-color: transparent;
+}
+
+button{
+    background-color: #15fff5;
+    width: 70px;
+    height: 30px;
+}
+
